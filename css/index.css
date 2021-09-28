@@ -56,6 +56,14 @@
     font-size: 25px;
   }
 
+  br
+  {
+    color: rgb(54, 54, 54);
+    text-align: left;
+    font-family: verdana;
+    font-size: 25px;
+  }
+
   p11
   {
     color: white;
